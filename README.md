@@ -1,7 +1,7 @@
-**[Project Name CTH : PEMBUATAN WEBSITE DLL]  **
+[**Project Name CTH : PEMBUATAN WEBSITE DLL**]
 (e.g., "Inventory Management System for Gunadarma University")
 
-Team Members and Roles
+**Team BERAPA Members and Roles**
 [Name 1] - Project Manager  
 [Name 2] - System Analyst  
 [Name 3] - UI/UX Designer  
@@ -11,7 +11,9 @@ Team Members and Roles
 
 Proyek ini bertujuan untuk mengembangkan Sistem Manajemen Inventaris untuk laboratorium Universitas Gunadarma. Sistem ini memungkinkan staf untuk melacak, memantau, dan memperbarui item inventaris secara efisien. Fitur-fitur utama termasuk menambah, menghapus, dan memperbarui item, membuat laporan, dan antarmuka yang mudah digunakan.
 
-Technologies Used
+**Technologies Used**
 Programming Language: [PHP,JavaScript]
 Framework: [Laravel & React]
 Database: [SQL /SSMS/ ]
+
+Start On 18 October 2024
